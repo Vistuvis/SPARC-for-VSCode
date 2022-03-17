@@ -27,7 +27,8 @@
                 ],
                 "extensions": [
                     ".m",
-                    ".s"
+                    ".s",
+                    ".m4"
                 ],
                 "configuration": "./language-configuration.json"
             }
